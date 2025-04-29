@@ -1,0 +1,114 @@
+[
+    {
+      "question": "What is the rule of thirds in photography?",
+      "answers": ["A compositional guideline dividing the image into nine equal parts"],
+      "category": "Photography",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which aperture setting allows the most light into the camera?",
+      "answers": ["f/1.4"],
+      "category": "Photography",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What does ISO stand for in photography?",
+      "answers": ["International Organization for Standardization"],
+      "category": "Photography",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the purpose of a histogram in photography?",
+      "answers": ["To represent the tonal distribution in an image"],
+      "category": "Photography",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the inverse square law in photography?",
+      "answers": ["A principle that describes how light intensity decreases with distance"],
+      "category": "Photography",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is chromatic aberration in photography?",
+      "answers": ["A distortion causing color fringing in images"],
+      "category": "Photography",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What does CPU stand for?",
+      "answers": ["Central Processing Unit"],
+      "category": "Computer Science",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the binary representation of the decimal number 10?",
+      "answers": ["1010"],
+      "category": "Computer Science",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is a linked list?",
+      "answers": ["A linear data structure where each element points to the next"],
+      "category": "Computer Science",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the time complexity of binary search?",
+      "answers": ["O(log n)"],
+      "category": "Computer Science",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is a mutex in concurrent programming?",
+      "answers": ["A mutual exclusion object that prevents simultaneous access"],
+      "category": "Computer Science",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the difference between TCP and UDP?",
+      "answers": ["TCP is connection-oriented; UDP is connectionless"],
+      "category": "Computer Science",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answers": ["Paris"],
+      "category": "Geography",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which continent is the Sahara Desert located on?",
+      "answers": ["Africa"],
+      "category": "Geography",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "answers": ["Nile"],
+      "category": "Geography",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which country has the most time zones?",
+      "answers": ["France"],
+      "category": "Geography",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the deepest point in the world's oceans?",
+      "answers": ["Mariana Trench"],
+      "category": "Geography",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which country has the highest number of volcanoes?",
+      "answers": ["Indonesia"],
+      "category": "Geography",
+      "difficulty": "Hard"
+    }
+]
+  
+
+
+

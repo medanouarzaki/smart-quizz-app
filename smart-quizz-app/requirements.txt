@@ -1,0 +1,19 @@
+# 🧠 Smart Quiz App (Python CLI)
+
+A terminal-based quiz application that lets you test your knowledge by category and difficulty — with flexible answers, score tracking, and even a timer!
+
+## ✅ Features
+
+- Load questions from JSON
+- Case-insensitive and punctuation-tolerant answers
+- Filter by **category** and **difficulty**
+- Track and save score history to a file
+- Random question order
+- Optional per-question timer (⏰)
+
+## 💻 How to Run
+
+1. Make sure you have Python 3 installed
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt

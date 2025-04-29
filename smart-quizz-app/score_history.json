@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-04-29 16:41:05",
+    "score": 0,
+    "total_questions": 2,
+    "category_filter": "photography",
+    "difficulty_filter": "easy"
+  },
+  {
+    "timestamp": "2025-04-29 16:48:27",
+    "score": 0,
+    "total_questions": 2,
+    "category_filter": "geography",
+    "difficulty_filter": "easy"
+  },
+  {
+    "timestamp": "2025-04-29 16:53:58",
+    "score": 0,
+    "total_questions": 2,
+    "category_filter": "photography",
+    "difficulty_filter": "easy"
+  },
+  {
+    "timestamp": "2025-04-29 16:56:43",
+    "score": 0,
+    "total_questions": 2,
+    "category_filter": "photography",
+    "difficulty_filter": "easy"
+  }
+]
